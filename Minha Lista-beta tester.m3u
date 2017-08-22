@@ -1,0 +1,611 @@
+﻿#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ ***" tvg-logo="http://i.imgur.com/seQeWu8.png" group-title="Abertos",Globo RJ ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1810.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD *" tvg-logo="http://i.imgur.com/YtDmYxd.png" group-title="Abertos",Globo SP HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1811.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record TV HD ***" tvg-logo="http://i.imgur.com/6oHWwmC.png" group-title="Abertos",Record TV HD ***
+http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record TV **" tvg-logo="http://i.imgur.com/YHKNOt5.png" group-title="Abertos",Record TV **
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band HD *" tvg-logo="http://i.imgur.com/JtBojcw.png" group-title="Abertos",Band HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1858.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band **" tvg-logo="http://i.imgur.com/eBijKBU.png" group-title="Abertos",Band **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1855.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD *" tvg-logo="http://i.imgur.com/8LVNzHE.png" group-title="Abertos",SBT HD *
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD ***" tvg-logo="http://i.imgur.com/8LVNzHE.png" group-title="Abertos",SBT HD ***
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT **" tvg-logo="http://i.imgur.com/92aHEWp.png" group-title="Abertos",SBT **
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV HD ***" tvg-logo="http://i.imgur.com/nX0ruIf.png" group-title="Abertos",Rede TV HD ***
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD *" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Abertos",TV Cultura HD *
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8s
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura **" tvg-logo="https://abdecrn.files.wordpress.com/2011/05/futura.gif" group-title="Abertos",Futura **
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL **" tvg-logo="https://s19.postimg.org/yn1m16bcz/TVBRASIL.png" group-title="Abertos",TV BRASIL **
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural **" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Abertos",Canal Rural **
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD *" tvg-logo="http://i.imgur.com/EaUaYZp.png" group-title="Esportes",SporTV HD *
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/3314.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD **" tvg-logo="http://i.imgur.com/EaUaYZp.png" group-title="Esportes",SporTV HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1738.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV ***" tvg-logo="http://i.imgur.com/EaUaYZp.png" group-title="Esportes",SporTV ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1738.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD *" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1741.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 ***" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1737.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD *" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1740.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 ***" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1735.ts
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD *" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD *
+http://hls.fearfulale.xyz/s/ch0003660/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate **" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate **
+http://95.141.32.213:8081/look/combate1/playlist.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD *" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",Fox Sports HD *
+http://158.58.172.5:8081/look/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD *" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",Fox Sports 2 HD *
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD **" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2 HD **
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/2833.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD **" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN BRASIL HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1823.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn+ HD ***" tvg-logo="http://i.imgur.com/1ZVyLnJ.png" group-title="Esportes",Espn+ HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2162.ts
+#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-name="Esporte Interativo HD *" tvg-logo="https://s19.postimg.org/e5czej7r7/ESPORTEINTERATIVO.png" group-title="Esportes",Esporte Interativo HD *
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=httpts
+#EXTINF:-1 tvg-id="Eimaxx.br" tvg-name="Esporte Internativo  HD **" tvg-logo="https://s19.postimg.org/e5czej7r7/ESPORTEINTERATIVO.png" group-title="Esportes",Esporte Internativo  HD **
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
+#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-name="Esporte Interativo 2 HD ***" tvg-logo=" https://s19.postimg.org/x26lld2wz/ESPORTEINTERATIVO2.png" group-title="Esportes",Esporte Interativo 2 HD ***
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/158.ts
+#EXTINF:-1 tvg-id="Eimaxx2.br" tvg-name="Esporte Interativo 2 HD ***" tvg-logo="https://s19.postimg.org/x26lld2wz/ESPORTEINTERATIVO2.png" group-title="Esportes",Esporte Interativo 2 HD ***
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=https
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD *" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD *
+http://evc-servers.uol.com.br:1935/geobband/operadora/playlist.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD *" tvg-logo="http://i.imgur.com/PqkG8Ec.png" group-title="Esportes",Premiere Clubes HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1771.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes ***" tvg-logo="http://i.imgur.com/PqkG8Ec.png" group-title="Esportes",Premiere Clubes ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1758.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD ***" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 2 HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1769.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 2 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1770.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 ***" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 2 ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1770.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD ***" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 3 HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1767.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 3 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1768.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD ***" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 4 HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1765.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 4 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1766.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD ***" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 5 HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1763.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 5 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1764.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 6 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1762.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 7 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1761.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 8 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1760.ts
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-name="Premiere 9 **" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 9 **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1759.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC Premium HD *" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Series",TC Premium HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1727.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD **" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1727.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium **" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1721.tss
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC Action HD *" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Series",TC Action HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1730.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD **" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1730.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action **" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1725.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action ***" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action ***
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/295.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC Pipoca HD *" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.pn..." group-title="Filmes e Series",TC Pipoca HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1728.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD **" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1728.tss
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca **" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1722.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC Fun HD *" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Series",TC Fun HD *
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/3307.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD **" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1729.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD ***" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Series",Telecine Fun HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1729.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun **" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1723.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC Touch HD *" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Series",TC Touch HD *
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/3304.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD **" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2148.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD ***" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Series",Telecine Touch HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2148.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch **" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch **
+http://srv.elitehdbr.com:25461/live/Kirito/zyQ4CV9NIt/2750.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch ***" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1720.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC Cult HD *" tvg-logo="https://s19.postimg.org/a44mgzdab/TCCULT.png" group-title="Filmes e Series",TC Cult HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1724.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD **" tvg-logo="https://s19.postimg.org/a44mgzdab/TCCULT.png" group-title="Filmes e Series",Telecine Cult HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1724.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult **" tvg-logo="https://s19.postimg.org/a44mgzdab/TCCULT.png" group-title="Filmes e Series",Telecine Cult **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1724.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD *" tvg-logo="https://s19.postimg.org/rrlicfpc3/HBO.png" group-title="Filmes e Series",HBO HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1802.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD **" tvg-logo="https://s19.postimg.org/q1hn2aqrn/HBO.png" group-title="Filmes e Series",HBO HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1802.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD ++ (LEGENDADO)" tvg-logo="https://s19.postimg.org/rrlicfpc3/HBO.png" group-title="Filmes e Series",HBO SD ++ (LEGENDADO)
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1805.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD *" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2 HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1804.tss
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD **" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2 HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1804.tss
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 ***" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2 ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1798.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD *" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2154.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD **" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO PLUS HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2154.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus ***" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1801.ts
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E **" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filmes e Series",HBO PLUS E **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1800.ts
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO Plus e ***" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filmes e Series",HBO Plus e ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1800.tss
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD *" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Series",HBO Family HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2155.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD **" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO FAMILY HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2155.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family ***" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1803.tss
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD *" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2153.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD **" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO SIGNATURE HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2153.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature ***" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1799.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD *" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Series",MAX HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1791.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="Max ***" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Series",Max ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1791.ts
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="Max UP HD *" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Series",Max UP HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1788.ts
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="Max UP ***" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Series",Max UP ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1788.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="Max Prime HD *" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1790.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="Max Prime ***" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1790.ts
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="MAX PRIME E **" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",MAX PRIME E **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1789.ts
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="Max Prime *e ***" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime *e ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1789.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD *" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1846.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD **" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1846.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax ***" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1846.tss
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox HD *" tvg-logo="http://i.imgur.com/Iu8nl2W.png" group-title="Filmes e Series",Fox HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2160.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD **" tvg-logo="http://i.imgur.com/Iu8nl2W.png" group-title="Filmes e Series",FOX HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2160.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX **" tvg-logo="http://i.imgur.com/Iu8nl2W.png" group-title="Filmes e Series",FOX **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1820.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD *" tvg-logo="https://s19.postimg.org/xj7uecv0j/FOXPREMIUM1.png" group-title="Filmes e Series",Fox Premium 1 HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1819.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD **" tvg-logo="https://s19.postimg.org/xj7uecv0j/FOXPREMIUM1.png" group-title="Filmes e Series",FOX PREMIUM 1 HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1819.ts.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD *" tvg-logo="https://s19.postimg.org/3tunm0bur/FOXPREMIUM2.png" group-title="Filmes e Series",Fox Premium 2 HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1818.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD **" tvg-logo="https://s19.postimg.org/3tunm0bur/FOXPREMIUM2.png" group-title="Filmes e Series",FOX PREMIUM 2 HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1818.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life HD ***" tvg-logo="http://i.imgur.com/aSAnGmG.png" group-title="Filmes e Series",Fox Life HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2159.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE **" tvg-logo="http://i.imgur.com/aSAnGmG.png" group-title="Filmes e Series",FOX LIFE **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1817.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD **" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2157.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD ***" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2157.tss
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD *" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Series",Canal Sony HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2164.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD **" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2164.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony ***" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1849.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD *" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2165.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD **" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2165.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN ***" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1860.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD **" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Series",WARNER CHANNEL HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2146.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD ***" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Series",Warner Channel HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2146.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel ***" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Series",Warner Channel ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1704.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD *" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2115.tss
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD **" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2115.tss
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space ***" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1742.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD *" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1715.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD **" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1715.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT ***" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1716.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD *" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Series HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2116.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD **" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT SERIES HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2116.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series ***" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Series ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1714.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD ***" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2121.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS **" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1731.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM ***" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Series",TCM ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1726.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD *" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",Megapix HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2111.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD **" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",MEGAPIX HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2111.tss
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MegaPix ***" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",MegaPix ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1787.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD **" tvg-logo="https://s19.postimg.org/tr2kn80lf/UNIVERSAL.png" group-title="Filmes e Series",UNIVERSAL CHANNEL HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1733.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD ***" tvg-logo="https://s19.postimg.org/tr2kn80lf/UNIVERSAL.png" group-title="Filmes e Series",Universal Channel HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1733.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel ***" tvg-logo="https://s19.postimg.org/tr2kn80lf/UNIVERSAL.png" group-title="Filmes e Series",Universal Channel ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1733.tss
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD **" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",STUDIO UNIVERSAL HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1733.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal ***" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",Studio Universal ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1733.tss
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E **" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series",A&E **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2720.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E ***" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series",A&E ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2720.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD **" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series",SYFY HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1732.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy ***" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series",Syfy ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1732.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD *" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1851.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD **" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1851.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil ***" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1851.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD *" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Series",Paramount HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2117.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD **" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2117.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount ***" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1774.t
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD *" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2123.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD **" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",MULTISHOW HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2123.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow ***" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1785.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD **" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",VIVA HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2145.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ***" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",VIVA HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2145.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva ***" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1705.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD *" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1786.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD **" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1786.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV ***" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1786.tss
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 HD **" tvg-logo="https://s19.postimg.org/pyzsd28w3/VH1_HD.png" group-title="Variedades e Musicas",VH1 HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1706.ts
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1  **" tvg-logo="https://s19.postimg.org/pyzsd28w3/VH1_HD.png" group-title="Variedades e Musicas",VH1  **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1706.ts
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 Megahits ***" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Musicas",VH1 Megahits ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1706.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central **" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Series",Comedy Central **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1843.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central ***" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Series",Comedy Central ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1843.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD *" tvg-logo="http://i.imgur.com/ccfBNRH.png" group-title="Documentarios",Discovery Home & Health HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1837.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD **" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home & Health HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1837.tsts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health ***" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home & Health ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1838.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigation Discovery HD *" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentarios",ID - Investigation Discovery HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2152.t0.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigação Discovery HD ***" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentarios",ID - Investigação Discovery HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2152.t
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigacao Discovery ***" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentarios",ID - Investigacao Discovery ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1795.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD *" tvg-logo="https://s19.postimg.org/k38f5sx6r/LIFETIME.png" group-title="Variedades e Musicas",Lifetime HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1793.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD **" tvg-logo="https://s19.postimg.org/k38f5sx6r/LIFETIME.png" group-title="Variedades e Musicas",Lifetime HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1793.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime ***" tvg-logo="https://s19.postimg.org/k38f5sx6r/LIFETIME.png" group-title="Variedades e Musicas",Lifetime ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1793.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC ***" tvg-logo="https://s19.postimg.org/xsytk8bur/TLC.png" group-title="Variedades e Musicas",TLC ***
+http://4.31.30.145:9043
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="Polishop" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="Variedades e Musicas",Polishop
+http://mm4td7.cloud.influxis.com:80/mm4td7_live/_definst_/polishoptv/live.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD *" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1833.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD **" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1833.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo ***" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1834.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD ***" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="Documentarios",Animal Planet HD ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1863.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet **" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentarios",Animal Planet **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1864.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD *" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentarios",Discovery Channel HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1840.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD **" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1840.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel ***" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1841.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD *" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentarios",Discovery World HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2163.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World  HD **" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentarios",Discovery World  HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2163.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery Civilization **" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1839.tss
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery Civilization ***" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1839.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science **" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1835.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science ***" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1835.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo HD *" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentarios",NatGeo HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1781.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO HD **" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentarios",NAT GEO HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1781.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeoWild HD *" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",NatGeoWild HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1782.tss
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild ***" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",NatGeo Wild ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2151.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD *" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentarios",History Channel HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2147.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD **" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",History Channel HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2147.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="The History Channel ***" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",The History Channel ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1718.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD *" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2 HD *
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2156.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD **" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2 HD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/2156.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 ***" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2 ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1806.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD *" tvg-logo="https://s19.postimg.org/5i2zs54hv/GLOBONEWS.png" group-title="Noticiarios",Globo News HD *
+http://hls.fearfulale.xyz/s/ch0010695/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo NEWS HD **" tvg-logo="https://s19.postimg.org/5i2zs54hv/GLOBONEWS.png" group-title="Noticiarios",Globo NEWS HD **
+http://hls.fearfulale.xyz/s/ch0010695/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News ***" tvg-logo="https://s19.postimg.org/5i2zs54hv/GLOBONEWS.png" group-title="Noticiarios",Globo News ***
+http://149.56.240.30:25461/live/juana/juana1234/5852.tss
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News **" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Noticiarios",Band News **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1857.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News ***" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Noticiarios",Band News ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1857.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News **" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Noticiarios",Record News **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1753.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News ***" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Noticiarios",Record News ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1753.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang **" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantis",Boomerang **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1852.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang ***" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantis",Boomerang ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1852.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network ***" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantis",Cartoon Network ***
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1847.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST **" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantis",TOONCAST **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1713.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR **" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantis",NICK JR **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1778.tss
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon **" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantis",Nickelodeon **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1777.tsts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL **" tvg-logo="https://s19.postimg.org/z1kegzr43/DISNEYCHANNEL.png" group-title="Infantis",DISNEY CHANNEL **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1832.tss
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR **" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantis",DISNEY JUNIOR **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1831.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD **" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantis",DISNEY XD **
+http://brasil.listaiptv.com:25461/live/MagnoMairaLuiz/3rjQKLUdw8/1830.tsss
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids ***" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantis",Discovery Kids ***
+http://95.141.35.193:8081/look/discoverykidss/playlist.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob ***" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantis",Gloob ***
+http://95.141.32.136:8081/look/gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Canção Nova HD
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Canção Nova SD
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida **" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida **
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida ***" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida ***
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida ***" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida ***
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil **" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil **
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil ***" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil ***
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Portal Gospel TV HD" tvg-logo="http://i.imgur.com/fciNoM9.png" group-title="Religiosos",Portal Gospel TV HD
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
+http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
+http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="Radios",Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:-1 tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/mobile/logo.png" group-title="Radios", Radio Mania Volta Redonda
+http://radio.servercsi.com.br:8595/;
+#EXTINF:-1 tvg-logo="" group-title="Radios", CBN SP 90.5 FM - Estudio Ao Vivo
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" group-title="Radios",Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1 tvg-logo="http://scontent.cdninstagram.com/t51.2885-15/e35/18809077_168874756980065_1499174367781715968_n.jpg?ig_cache_key=MTUyNjgxMzIzMDU4NzE3MjE2Mw%3D%3D.2" group-title="Radios",Top Rio FM
+http://streaming32.hstbr.net:8334/live
+#EXTINF:-1 tvg-logo="http://www.radioemrevista.com/wp-content/uploads/2016/06/fanatica_fm_press_2.png" group-title="Radios",Fanatica FM
+http://noasrv.caster.fm:10156/live
+#EXTINF:-1 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/609/8258b880a641ff4627d31d6b54cf25d7.png" group-title="Radios",CIDADE DO ACO
+http://ice1.crossradio.com.br:8184/live.mp3
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" group-title="Radios",Radio Maringa
+http://ice1.fabricahost.com.br:8010/live.128
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio8832_1439401341.jpg" group-title="Radios",Transamerica
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/821813567343226881/tWaRDe7v.jpg" group-title="Radios",truckers fm
+https://radio.truckers.fm/
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bt_RzlGDjJc-xofszZE2yYf16gIAK7B5Y8qjTjFpZIeVNbN22kptqKKnxwOfWjlaRA=w150" group-title="Radios",Funk Mania Net
+http://199.233.234.10:17438/
